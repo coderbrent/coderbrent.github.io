@@ -2,7 +2,7 @@
 <meta charset = "utf-8">
 <head>
     <title>Contact</title>
-    <link rel="stylesheet" type="text/css" href="/Users/brentabruzese/Dropbox/GitHub/homework/Recommended Homework/assets/CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="/Recommended%20Homework/assets/CSS/style.css">
 </head>
 
 <body>
@@ -12,9 +12,9 @@
     </div>
       <ul class="navbar">
         <ul class="nav-link">
-          <a href="#" target="_blank" title="About"><li>About</li></a>
-          <a href="#" target="_blank" title="Portfolio"><li>Portfolio</li></a>
-          <a href="#" target="_blank" title="Contact"><li>Contact</li></a>
+         <a href="/Recommended%20Homework/index.html" target="_blank" title="About"><li>About</li></a>
+         <a href="/Recommended%20Homework/portfolio.html" target="_blank" title="Portfolio"><li>Portfolio</li></a>
+         <a href="/Recommended%20Homework/contact.html" target="_blank" title="Contact"><li>Contact</li></a>
         </ul>
       </ul>
   </header>
