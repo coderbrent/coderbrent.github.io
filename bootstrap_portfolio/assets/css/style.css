@@ -1,0 +1,65 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 60px;
+}
+
+h1 {
+    color: teal;
+}
+
+p {
+    color: #777;
+}
+
+p.foot {
+    color: white;
+}
+
+.footer {
+    background-color: rgb(77, 77, 77);
+    text-align: center;
+    color: white;
+}
+
+.teal {
+    background-color: rgb(23, 201, 201);
+}
+
+.white {
+    background-color: white;
+}
+
+#footer {
+    position: absolute;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #444;
+    border-top: 8px solid teal;
+  }
+
+  .headliner {
+      border-bottom: solid 1px #cccccc;
+      width: 85%;
+  }
+
+.btn {
+    background-color: teal;
+    border: teal;
+}
+
+.btn:hover {
+    opacity: .5;
+    background-color: teal;
+}
+
+.foot {
+    text-align: center;
+}
