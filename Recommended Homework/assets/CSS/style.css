@@ -2,10 +2,13 @@
     header {
         position: static;
     }
+    body {
+        max-width: 25%;
 }
 
 @media screen and (max-width: 768px) {
-
+    body {
+        max-width: 50%;
 }
 
 @media screen and (max-width: 980px) {
